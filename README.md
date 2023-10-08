@@ -44,7 +44,7 @@ To run this project locally, you'll need the following:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/e-commerce-website.git
+   git clone https://github.com/kenawak/E-Commerce-Website.git
 Navigate to the project directory:
    cd e-commerce-website
 Open the index.html file in your web browser to launch the website.
